@@ -1,0 +1,18 @@
+body{
+    background-image: url('../images/y-so-serious.png');;
+}
+h1,h2,h3,label,p{
+    color: whitesmoke;
+}
+nav{
+    display: flex;
+    justify-content: flex-end;
+    margin: 10px;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.item{
+    margin: 7px;
+}
